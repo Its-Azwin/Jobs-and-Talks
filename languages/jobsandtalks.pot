@@ -23,7 +23,7 @@ msgid ""
 msgstr ""
 
 #. Description of the theme
-msgid "Superio is a complete Job Board WordPress theme that allows you to create a useful and easy to use job listings website."
+msgid "Jobsandtalks is a complete Job Board WordPress theme that allows you to create a useful and easy to use job listings website."
 msgstr ""
 
 #. Author of the theme
@@ -163,7 +163,7 @@ msgid "Read More"
 msgstr ""
 
 #: footer.php:27
-msgid "&copy; %s - Superio. All Rights Reserved. <br/> Powered by <a href=\"//themeforest.net/user/apustheme\">ApusTheme</a>"
+msgid "&copy; %s - Jobsandtalks. All Rights Reserved. <br/> Powered by"
 msgstr ""
 
 #: functions.php:76
@@ -1687,11 +1687,11 @@ msgid "Display Settings"
 msgstr ""
 
 #: inc/vendors/elementor/functions.php:34
-msgid "Superio Elements"
+msgid "Jobsandtalks Elements"
 msgstr ""
 
 #: inc/vendors/elementor/functions.php:42
-msgid "Superio Header Elements"
+msgid "Jobsandtalks Header Elements"
 msgstr ""
 
 #: inc/vendors/elementor/functions.php:187
@@ -4452,7 +4452,7 @@ msgstr ""
 
 #: inc/vendors/elementor/wp-job-board-pro-widgets/user_info.php:91
 #: inc/vendors/elementor/wp-job-board-pro-widgets/user_info2.php:91
-msgid "Login to superio"
+msgid "Login to Jobsandtalks"
 msgstr ""
 
 #: inc/vendors/elementor/wp-job-board-pro-widgets/user_info.php:101
@@ -4462,7 +4462,7 @@ msgstr ""
 
 #: inc/vendors/elementor/wp-job-board-pro-widgets/user_info.php:104
 #: inc/vendors/elementor/wp-job-board-pro-widgets/user_info2.php:104
-msgid "Create a free superio account"
+msgid "Create a free Jobsandtalks account"
 msgstr ""
 
 #: inc/vendors/elementor/wp-job-board-pro-widgets/user_info.php:150
